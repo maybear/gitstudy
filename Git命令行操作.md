@@ -20,7 +20,7 @@
 
 工作区 暂存区 版本库
 
-![工作区-暂存区版本库](C:\Users\maybe\Desktop\git_test\学习\工作区-暂存区版本库.jpg)
+![工作区-暂存区版本库](分支管理.jpg)
 
 回退工作区文件 `git checkout -- file`
 

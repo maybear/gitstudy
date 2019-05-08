@@ -20,7 +20,7 @@
 
 工作区 暂存区 版本库
 
-![工作区-暂存区版本库](分支管理.jpg)
+![工作区-暂存区版本库](工作区-暂存区版本库.jpg)
 
 回退工作区文件 `git checkout -- file`
 
@@ -52,12 +52,12 @@
 
 删除分支：`git branch -d <name>`
 
-![分支管理](C:\Users\maybe\Desktop\git_test\学习\分支管理.jpg)
+![分支管理](分支管理.jpg)
 
 查看分支合并图`git log --graph`
 
 团队分支示意图
 
-![团队分支](C:\Users\maybe\Desktop\git_test\学习\团队分支.jpg)
+![团队分支](团队分支.jpg)
 
 把本地未push的分叉提交历史整理成直线 `git rebase`
